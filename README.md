@@ -1,0 +1,2 @@
+# coin
+rubyrush_forever
